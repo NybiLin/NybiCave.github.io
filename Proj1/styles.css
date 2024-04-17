@@ -105,14 +105,13 @@ h3 {
 div {
   margin-top: 0;
 }
-img {
-  width: 100px;
-  height: 100px;
-}
-
 .backbutton {
   color: rgb(0, 255, 119);
   outline: 3px #1d3557;
   text-align: left;
   margin-right: 95%;
+}
+img {
+  width: 100px;
+  height: 100px;
 }
