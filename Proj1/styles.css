@@ -1,0 +1,110 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "M PLUS 1p", sans-serif;
+}
+
+h3 {
+  color: #1d3557;
+}
+
+.Maintop {
+  background-image: url("images/Tower.jpg");
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 230px;
+  background-size: cover;
+}
+
+#paris {
+  background-color: #1d3557;
+  width: 245px;
+  height: 42px;
+  padding-top: 12px;
+  border-radius: 10px;
+  color: #f1faee;
+}
+
+#enjoy {
+  background-color: #457b9d;
+  width: 812px;
+  height: 52px;
+  margin-top: 0;
+  padding-top: 25px;
+  border-radius: 10px;
+  color: #f1faee;
+}
+
+.Mainmiddle {
+  background-color: #f1faee;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.acts {
+  display: flex;
+  width: 80%;
+  justify-content: space-around;
+}
+
+.acts div {
+  height: 265px;
+  width: 320px;
+  text-align: center;
+  color: #1d3557;
+}
+
+.acts div img {
+  border-radius: 50%;
+}
+
+.Mainbottom {
+  margin-top: 1.5%;
+  margin-left: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #a8dadc;
+  color: #1d3557;
+  border-bottom: 7px solid #1d3557;
+
+  border-radius: 10px;
+  width: 400px;
+  height: 294px;
+}
+.Mainbottom img {
+  padding-left: 10px;
+  width: 170px;
+  height: 180px;
+}
+.Mainbottom div {
+  width: 200px;
+}
+
+#italic {
+  font-style: italic;
+}
+
+div {
+  margin-top: 0;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
