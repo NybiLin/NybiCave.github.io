@@ -3,6 +3,15 @@ body{
     background-color: #1f2937;
     color: #eae4d4;
 }
+
+.project{
+    background-color: #314158;
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+}
+
 a{
     color: wheat;
 }
